@@ -3,6 +3,7 @@
 ## Tasarım İhtiyaçları
 
 İhtiyacımız temelde bir tasarım ve kompozisyonun ve buna uygun dijital varlıkların --assets-- oluşturulması.
+Referanslar bölümündeki geçişli tasarım gibi, tüm ekranların bütün olup, geçişlerin bu kadar rahat yapılabileceği bir tasarım ihtiyacımız vardır.
 
 ### Tasarım Kararları
 
