@@ -2,6 +2,8 @@
 
 ## Tasarım İhtiyaçları
 
+İhtiyacımız temelde bir tasarım ve kompozisyonun ve buna uygun dijital varlıkların --assets-- oluşturulması.
+
 ### Tasarım Kararları
 
 - Tema Seçimi
@@ -33,6 +35,8 @@ Bu ekran diğer tüm ekranlar gibi kompozisyon ve tema uyumunda, iki buton içer
 
 Bu ekranda tema dahilinde istenen şeyler; oyunda gösterilecek simgeleri çevreleyen bir kutu. Örnek kutu:
 ![](/files/box.png)
+
+Kutu tamamen amatörce ve temsili.
 
 #### Skorlar
 
