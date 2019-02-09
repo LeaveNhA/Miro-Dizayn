@@ -47,4 +47,3 @@ Tema dahilinde, etkileşimli, bölümlerin listeleneceği bir ekran.
 ### Görsel Referanslar
 
 ![transition](/files/transition.gif)
-![kutu]: /files/box.png
