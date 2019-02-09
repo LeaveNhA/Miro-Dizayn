@@ -32,7 +32,7 @@ Bu ekran diğer tüm ekranlar gibi kompozisyon ve tema uyumunda, iki buton içer
 #### Oyun
 
 Bu ekranda tema dahilinde istenen şeyler; oyunda gösterilecek simgeleri çevreleyen bir kutu. Örnek kutu:
-![](/files/cubem.png)
+![](/files/box.png)
 
 #### Skorlar
 
