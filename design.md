@@ -31,11 +31,20 @@ Bu ekran diğer tüm ekranlar gibi kompozisyon ve tema uyumunda, iki buton içer
 
 #### Oyun
 
-Bu ekranda tema dahilinde istenen şeyler; oyunda gösterilecek simgeleri çevreleyen bir kutu.
+Bu ekranda tema dahilinde istenen şeyler; oyunda gösterilecek simgeleri çevreleyen bir kutu. Örnek kutu:
+![](/files/cubem.png)
+
+#### Skorlar
+
+Tema dahilinde, etkileşimli bir skor ekranı.
+
+#### Bölümler
+
+Tema dahilinde, etkileşimli, bölümlerin listeleneceği bir ekran.
 
 ## Referanslar
 
 ### Görsel Referanslar
 
-![transition]: /files/transition.gif
+![transition](/files/transition.gif)
 ![kutu]: /files/box.png
